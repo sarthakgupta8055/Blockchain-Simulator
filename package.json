@@ -1,5 +1,5 @@
 {
-  "homepage": "https://sarthakgupta8055.github.io/blockchain-simulator",
+  "homepage": "https://sarthakgupta8055.github.io/Blockchain-Simulator",
   "name": "blockchain_simulator",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "deploy gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
