@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blockchain-simulator/static/css/main.97ecf6b8.css",
+    "main.js": "/blockchain-simulator/static/js/main.2694f2c5.js",
+    "index.html": "/blockchain-simulator/index.html",
+    "main.97ecf6b8.css.map": "/blockchain-simulator/static/css/main.97ecf6b8.css.map",
+    "main.2694f2c5.js.map": "/blockchain-simulator/static/js/main.2694f2c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97ecf6b8.css",
+    "static/js/main.2694f2c5.js"
+  ]
+}
